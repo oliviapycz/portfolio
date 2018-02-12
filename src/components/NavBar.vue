@@ -9,7 +9,7 @@
           <a href="https://www.linkedin.com/in/olivia-peny-coblentz/" style="color: #8fc44e !important">
             <i class="fab fa-linkedin-in fa-2x" aria-hidden="true"></i>
           </a>
-          <a href="../static/cv.pdf" download="cv_olivia_peny_coblentz.pdf" class="cv">CV</a>
+          <a href="./static/cv.pdf" download="cv_olivia_peny_coblentz.pdf" class="cv">CV</a>
         </div>
       </div>
       <div class="col-md-8">

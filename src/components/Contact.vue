@@ -6,10 +6,10 @@
       </div>
       <div class="col-md-3 offset-md-6 modaleSend" v-if="showModal">
         <p>Thank You!<br> Votre message a été envoyé</p>
-        <button @click="showModal = false" class="btn btn-secondary btn-sm" type="submit" name="button" style="margin-top: 20px">FERMER</button>
+        <button @click="redirect" class="btn btn-secondary btn-sm" type="submit" name="button" style="margin-top: 20px">FERMER</button>
       </div>
       <transition name="flip">
-        <form v-if="show" class="col-md-6 offset-md-3 row" @submit.prevent="onSubmit" style="margin-top: 7vh;" action="https://formspree.io/oliviapenycoblentz@gmail.com" method="POST">
+        <form v-if="show" class="col-md-6 offset-md-3 row"  style="margin-top: 7vh;" action="https://formspree.io/oliviapenycoblentz@gmail.com" method="POST">
           <fieldset class="row">
             <div class="form-group col-md-12">
               <label for="lastname"></label>
@@ -32,7 +32,7 @@
                 placeholder="message"
                 required></textarea>
                 <div class="form-group submit col-md-12" style="margin-top: 15px">
-                  <button class="btn btn-secondary btn-sm" type="submit" name="button">ENVOYER</button>
+                  <button  @click="onSubmit" class="btn btn-secondary btn-sm" type="submit" name="button">ENVOYER</button>
                 </div>
             </div>
           </fieldset>
@@ -52,7 +52,12 @@ export default {
   },
   methods: {
     onSubmit () {
+      console.log('sent')
       this.showModal = true
+    },
+    redirect () {
+      this.showModal = false
+      this.$router.push('/')
     }
   },
   mounted () {

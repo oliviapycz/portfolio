@@ -39,13 +39,13 @@ export default {
   }
   .picture {
     border: 3px solid #fff;
-    border-radius: 100px;
+    border-radius: 50%;
     box-shadow: 0 0 5px 2px lightgrey;
     margin-top: 5vh;
     height: 26vh;
     width: 26vh;
-    background-image: url(../assets/test.jpg);
-    background-size: contain;
+    background-image: url(../assets/photo.jpg);
+    background-size: cover;
   }
   .mobile {
     display: none;
