@@ -11,8 +11,9 @@ https://portefolio-olivia-pycz.firebaseapp.com/
 ### FireBase
 
 
-![Screenshot](https://github.com/oliviapycz/portfolio/develop/docs/portfolio_home.jpg)
 
 ![screenshots](https://github.com/oliviapycz/portfolio/raw/develop/docs/portfolio_home.jpg)
+
+![screenshots](https://github.com/oliviapycz/portfolio/raw/develop/docs/portfolio_competences.jpg)
 
 ![screenshots](https://github.com/oliviapycz/portfolio/raw/develop/docs/portfolio_projets.jpg)
