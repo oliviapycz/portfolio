@@ -14,4 +14,4 @@ https://portefolio-olivia-pycz.firebaseapp.com/
 
 ![Screenshot](https://github.com/oliviapycz/portfolio/develop/docs/portfolio_home.jpg)
 
-![screenshots](https://github.com/oliviapycz/portfolio/blob/develop/docs/portfolio_home.jpg?raw=true)
+![screenshots](https://github.com/oliviapycz/portfolio/raw/develop/docs/portfolio_home.jpg)
