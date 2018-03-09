@@ -12,4 +12,4 @@ https://portefolio-olivia-pycz.firebaseapp.com/
 # FireBase
 
 
-![portfolio_home](https://user-images.githubusercontent.com/25153695/37211342-e5f57db6-23ab-11e8-85ce-1bd04812539d.jpg)
+![Screenshot](https://github.com/oliviapycz/portfolio/develop/docs/portfolio_home.jpg)
