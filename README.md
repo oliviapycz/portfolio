@@ -1,4 +1,4 @@
-# portefolio
+# Portefolio
 
 https://portefolio-olivia-pycz.firebaseapp.com/
 
@@ -6,10 +6,11 @@ https://portefolio-olivia-pycz.firebaseapp.com/
 
 ``` bash
 # VueJS
-npm install
 
 # Bootstrap 4
-npm run dev
 
 # FireBase
-npm run build
+
+
+![screenshots](https://github.com/oliviapycz/portfolio/blob/develop/docs/portfolio_home.jpg?raw=true)
+![screenshots](https://github.com/oliviapycz/portfolio/blob/develop/docs/portfolio_projets.jpg?raw=true)
