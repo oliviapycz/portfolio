@@ -3,12 +3,12 @@
 https://portefolio-olivia-pycz.firebaseapp.com/
 
 ## TOOLS:
-###VueJS
-###Bootstrap 4
-###FireBase
+### VueJS
+### Bootstrap 4
+### FireBase
 
 ## TO DO
-###Mobile Responsive
+### Mobile Responsive
 
 ![screenshots](https://github.com/oliviapycz/portfolio/raw/develop/docs/portfolio_home.jpg)
 
