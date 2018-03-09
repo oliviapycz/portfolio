@@ -4,7 +4,6 @@ https://portefolio-olivia-pycz.firebaseapp.com/
 
 ## Stack Technique
 
-``` bash
 # VueJS
 
 # Bootstrap 4
